@@ -1,0 +1,175 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.4 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="26.0.4">
+  <diagram name="Страница — 1" id="tTonicHEObJ28vpqVgM7">
+    <mxGraphModel dx="1768" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-OD-S_4WKYJWnsFzORCf-1" value="" style="triangle;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="820" y="400" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-OD-S_4WKYJWnsFzORCf-2" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="-OD-S_4WKYJWnsFzORCf-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="440" as="sourcePoint" />
+            <mxPoint x="700" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-OD-S_4WKYJWnsFzORCf-3" value="Проблемы с работоспособностью нового решения" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="750" y="490" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-OD-S_4WKYJWnsFzORCf-4" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="-OD-S_4WKYJWnsFzORCf-5" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="201" y="440" as="sourcePoint" />
+            <mxPoint x="1" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-OD-S_4WKYJWnsFzORCf-5" value="Люди" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-29" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-OD-S_4WKYJWnsFzORCf-6" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-164" y="200" as="sourcePoint" />
+            <mxPoint x="46" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-OD-S_4WKYJWnsFzORCf-7" value="Недостаточное количество IT-специалистов" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-174" y="160" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-OD-S_4WKYJWnsFzORCf-9" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-117" y="320" as="sourcePoint" />
+            <mxPoint x="123" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-OD-S_4WKYJWnsFzORCf-10" value="Недостаточная квалификация IT-специалистов в выбранном стеке технологий" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-124" y="270" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-OD-S_4WKYJWnsFzORCf-11" value="" style="endArrow=none;html=1;rounded=0;" parent="1" target="-OD-S_4WKYJWnsFzORCf-12" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="440" as="sourcePoint" />
+            <mxPoint x="280" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-OD-S_4WKYJWnsFzORCf-12" value="Инфраструктура" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="240" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-OD-S_4WKYJWnsFzORCf-13" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="327" y="200" as="sourcePoint" />
+            <mxPoint x="137" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-OD-S_4WKYJWnsFzORCf-14" value="1 сервер, нет резервирования" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="163" y="160" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-OD-S_4WKYJWnsFzORCf-15" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="-OD-S_4WKYJWnsFzORCf-16" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="440" as="sourcePoint" />
+            <mxPoint x="550" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-OD-S_4WKYJWnsFzORCf-16" value="Программное обеспечение" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="500" y="100" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-OD-S_4WKYJWnsFzORCf-18" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="427" y="200" as="sourcePoint" />
+            <mxPoint x="597" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-OD-S_4WKYJWnsFzORCf-19" value="Продукты 1С функционируют в файловом режиме" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="403" y="166" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-OD-S_4WKYJWnsFzORCf-20" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="-OD-S_4WKYJWnsFzORCf-22" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="201" y="440" as="sourcePoint" />
+            <mxPoint x="11" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-OD-S_4WKYJWnsFzORCf-22" value="Интеграции" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-39" y="760" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-OD-S_4WKYJWnsFzORCf-23" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-182" y="681" as="sourcePoint" />
+            <mxPoint x="58" y="681" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-OD-S_4WKYJWnsFzORCf-24" value="Отсутствие современного механизма взаимодействия с лабораторией" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-172" y="639" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-OD-S_4WKYJWnsFzORCf-25" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="440" as="sourcePoint" />
+            <mxPoint x="300" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-OD-S_4WKYJWnsFzORCf-26" value="Процессы" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="246" y="760" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-OD-S_4WKYJWnsFzORCf-27" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="147" y="681" as="sourcePoint" />
+            <mxPoint x="347" y="681" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-OD-S_4WKYJWnsFzORCf-28" value="Аналитика по платежам строится на основе дублирующейся информации в Excel" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="127" y="631" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-OD-S_4WKYJWnsFzORCf-29" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="194" y="601" as="sourcePoint" />
+            <mxPoint x="394" y="601" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-OD-S_4WKYJWnsFzORCf-30" value="Отсутствуют практики и внутренние ресурсы компании для обучения персонала" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="210" y="559" width="200" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="-OD-S_4WKYJWnsFzORCf-31" value="Отсутствуют практики CI/CD" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="250" y="498" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-OD-S_4WKYJWnsFzORCf-32" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="242" y="521" as="sourcePoint" />
+            <mxPoint x="442" y="521" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NKdFtUtZFaqRnMAM077p-1" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="382" y="281" as="sourcePoint" />
+            <mxPoint x="192" y="281" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NKdFtUtZFaqRnMAM077p-2" value="Модель доступа реализуется только средствами файловой системы" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="152" y="231" width="196" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NKdFtUtZFaqRnMAM077p-4" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="482" y="281" as="sourcePoint" />
+            <mxPoint x="652" y="281" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NKdFtUtZFaqRnMAM077p-5" value="Имеющиеся наработки в получении аналитических отчетов завязаны на Excel" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="443" y="240" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NKdFtUtZFaqRnMAM077p-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="535" y="359" as="sourcePoint" />
+            <mxPoint x="705" y="359" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NKdFtUtZFaqRnMAM077p-7" value="Хранилище информации в виде разрозненных файлов Excel" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="496" y="318" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NKdFtUtZFaqRnMAM077p-8" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="436" y="360" as="sourcePoint" />
+            <mxPoint x="246" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NKdFtUtZFaqRnMAM077p-9" value="Имеющиеся каналы связи не рассчитаны на интенсивное использование" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="206" y="310" width="196" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
